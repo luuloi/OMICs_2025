@@ -14,5 +14,6 @@
 
 [**2. Next Generation Sequencing analysis Part II - 01/03/2025**]() \
    [2.1 Downstream analysis of NGS: variant annotation and interpretation]() \
-   [2.2 Introduction to Google Colab]() \
+   [2.2 Introduction to Google Colab]\
+   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dKwL8cNxW8UODCd8_bmQEU7-jfxRTrnY?usp=sharing)
    [2.3 Introduction to basic R in Google Colab]()
