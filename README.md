@@ -16,4 +16,5 @@
    [2.1 Downstream analysis of NGS: variant annotation and interpretation](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf) \
    2.2 Introduction to Google Colab \
    Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dKwL8cNxW8UODCd8_bmQEU7-jfxRTrnY?usp=sharing) \
-   [2.3 Introduction to basic R in Google Colab]()
+   [2.3 Introduction to basic R in Google Colab \
+   Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/DS_basics_basics_R.ipynb)
