@@ -50,10 +50,10 @@
 [8.2 RNA-seq: Downstream Analysis Part II [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf) \
 [8.3 Visualize RNA-seq with IGV [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf)
 
-[**9. RNA-seq: Downstream Analysis Part III - 12/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_7) \
+[**9. RNA-seq: Downstream Analysis Part III - 17/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_7) \
 [9.1 Review Downstream Analysis Part II [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf) \
 [9.2 RNA-seq: Downstream Analysis Part III [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf) \
 [9.3 Bulk RNA-seq database [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf)
 
-
+[**10. Presenting- 17/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_10) \
 
