@@ -4,9 +4,9 @@
  [1.2 Overview of OMICs](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_0/PH%C3%82N%20T%C3%8DCH%20D%E1%BB%AE%20LI%E1%BB%86U%20TIN%20SINH%20H%E1%BB%8CC%20%E2%80%9C-OMICS%E2%80%9D.docx)
  - https://docs.google.com/document/d/1jTEfX4PIHhweUEKu854v2VQS2WdoYqKcqHCzaNGuaL0/edit?tab=t.0
 
-[**1. Next Generation Sequencing analysis Part I - 22/02/2025**]() \
-   [1.1 Introduction to Next Generation Sequencing]() \
-   [1.2 Upstream analysis of NGS: from raw read, genome mapping to variant calling]() \
+[**1. Next Generation Sequencing analysis Part I - 22/02/2025**](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_1/) \
+   [1.1 Introduction to Next Generation Sequencing](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_1/Introduction_to_NGS.pdf) \
+   [1.2 Upstream analysis of NGS: from raw read to genome mapping](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_1/DNAseq_BRCA1_2_UpstreamAnalysis.pdf) \
    1.3 Papers
    - [1. "Generation of iPSC-derived human venous endothelial cells for the modeling of vascular malformations and drug discovery"](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(24)00377-1)
    - [2. "Immunohistochemical Profiling of Histone Modification Biomarkers Identifies Subtype-Specific Epigenetic Signatures and Potential Drug Targets in Breast Cancer"](https://pubmed.ncbi.nlm.nih.gov/39859484/)
