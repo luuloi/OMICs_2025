@@ -13,6 +13,6 @@
    - [3. "HKDC1 functions as a glucose sensor and promotes metabolic adaptation and cancer growth via interaction with PHB2"](https://pubmed.ncbi.nlm.nih.gov/39375512/)
 
 [**2. Next Generation Sequencing analysis Part II - 01/03/2025**]() \
-   [2.1 Downstream analysis of NGS: variant annotation and interpretation]()
-   [2.2 Introduction to Google Colab]()
+   [2.1 Downstream analysis of NGS: variant annotation and interpretation]() \
+   [2.2 Introduction to Google Colab]() \
    [2.3 Introduction to basic R in Google Colab]()
