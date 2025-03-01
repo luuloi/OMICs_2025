@@ -1,6 +1,6 @@
 # OMICs 2025
-[**0. Introduction to the course "OMICs 2023" - 15/02/2025**](https://github.com/luuloi/OMICs_2025/) \
- [0.1 DNA-seq and Genomic Testing](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_0/) \
+[**0. Introduction to the course "OMICs 2023" - 15/02/2025**](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_0/) \
+ [0.1 DNA-seq and Genomic Testing](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_0/Introduction_to_DNA-seq.pdf) \
  [1.2 Overview of OMICs]()
 
 [**1. Next Generation Sequencing analysis Part I - 22/02/2025**]() \
