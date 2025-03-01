@@ -7,9 +7,9 @@
    [1.1 Introduction to Next Generation Sequencing]() \
    [1.2 Upstream analysis of NGS: from raw read to bam file]() \
    [1.3 Papers] \
-   [1.3.1 "Generation of iPSC-derived human venous endothelial cells for the modeling of vascular malformations and drug discovery"](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(24)00377-1) \
-   [1.3.2 "Immunohistochemical Profiling of Histone Modification Biomarkers Identifies Subtype-Specific Epigenetic Signatures and Potential Drug Targets in Breast Cancer"](https://pubmed.ncbi.nlm.nih.gov/39859484/) \
-   [1.3.3 "HKDC1 functions as a glucose sensor and promotes metabolic adaptation and cancer growth via interaction with PHB2"](https://pubmed.ncbi.nlm.nih.gov/39375512/)
+   - [1. "Generation of iPSC-derived human venous endothelial cells for the modeling of vascular malformations and drug discovery"](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(24)00377-1) \
+   - [2. "Immunohistochemical Profiling of Histone Modification Biomarkers Identifies Subtype-Specific Epigenetic Signatures and Potential Drug Targets in Breast Cancer"](https://pubmed.ncbi.nlm.nih.gov/39859484/) \
+   - [3. "HKDC1 functions as a glucose sensor and promotes metabolic adaptation and cancer growth via interaction with PHB2"](https://pubmed.ncbi.nlm.nih.gov/39375512/)
 
-[**2. Next Generation Sequencing analysis Part II - 01/03/2025**]()
+[**2. Next Generation Sequencing analysis Part II - 01/03/2025**]() \
    [1.1 Downstream analysis of NGS]() \
