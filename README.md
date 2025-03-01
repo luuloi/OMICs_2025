@@ -17,5 +17,5 @@
    2.2 Introduction to Google Colab [Kim] \
    Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dKwL8cNxW8UODCd8_bmQEU7-jfxRTrnY?usp=sharing) \
    [2.3 Introduction to basic R in Google Colab [Duy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/R1_Basic_R.pdf) \
-   - https://docs.google.com/presentation/d/1neestepttZVAYVREIE3s7eNULgngSpVZrkxlIWEaRyI/edit?usp=sharing
+   - https://docs.google.com/presentation/d/1neestepttZVAYVREIE3s7eNULgngSpVZrkxlIWEaRyI/edit?usp=sharing \
    Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/DS_basics_basics_R.ipynb)
