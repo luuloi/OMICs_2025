@@ -33,7 +33,7 @@
 [**5. RNA-seq: Upstream Analysis Part II - 22/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_5) \
 [5.1 Review RNA-seq [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf) \
 [5.2 RNA-seq: Upstream Analysis Part II [Duy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf) \
-[5.3 Basic analysis with R [Hung/Thanh/Kim](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf)
+[5.3 Basic analysis with R [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf)
 
 [**6. RNA-seq: Upstream Analysis Part II - 29/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_6) \
 [6.1 Review Upstream Analysis Part I [Duy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf) \
