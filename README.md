@@ -32,15 +32,15 @@
 [5.1 RNA-seq: Upstream Analysis Part II [Duy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_5/) \
 [5.2 Basic statistical analysis with R [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_5/)
 
-[**6. RNA-seq: Upstream Analysis Part II - 29/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_6) \
-[6.1 RNA-seq: Upstream Analysis Part II [Duy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_6/) \
+[**6. RNA-seq: Downstream Analysis Part I - 29/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_6) \
+[6.1 RNA-seq: Downstream Analysis Part I [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_6/) \
 [6.2 Bioconductor installation [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_6/)
 
-[**7. RNA-seq: Downstream Analysis Part I - 5/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_7) \
+[**7. RNA-seq: Downstream Analysis Part II - 5/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_7) \
 [7.1 RNA-seq: Downstream Analysis Part I [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_7/) \
 [7.2 GGplot with R [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_7/)
 
-[**8. RNA-seq: Downstream Analysis Part II - 12/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_8) \
+[**8. RNA-seq: Downstream Analysis Part III - 12/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_8) \
 [8.1 RNA-seq: Downstream Analysis Part II [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_8/) \
 [8.2 Visualize RNA-seq with IGV [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_8/)
 
