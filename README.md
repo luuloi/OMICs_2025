@@ -1,6 +1,6 @@
 # OMICs 2025
 #### Saturday, 1:30 to 5 PM
-#### C43A, 227 Nguyen Van Cu st, Dist. 5, HCM city 
+#### C43B, 227 Nguyen Van Cu st, Dist. 5, HCM city 
 
 [**0. Introduction to the course "OMICs 2025" - 15/02/2025**](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_0/) \
  [0.1 DNA-seq and Genomic Testing [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_0/Introduction_to_DNA-seq.pdf) \
