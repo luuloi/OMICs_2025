@@ -21,39 +21,34 @@
    Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/DS_basics_basics_R.ipynb)
 
 [**3. Fundamental concepts of RNA sequencing experiments - 08/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_3) \
-[3.1 Review DNA-seq [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf) \
-[3.2 Fundamental concepts of RNA sequencing experiments [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf) \
-[3.3 Basic plot with R [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf)
+[3.1 Fundamental concepts of RNA sequencing experiments [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_3/) \
+[3.2 Basic plot with R [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_3/)
 
 [**4. RNA-seq: Upstream Analysis Part I - 15/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_4) \
-[4.1 Review RNA-seq [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf) \
-[4.2 RNA-seq: Upstream Analysis Part I [Duy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf) \
-[4.3 GGplot with R [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf)
+[4.1 RNA-seq: Upstream Analysis Part I [Duy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_4/) \
+[4.2 GGplot with R [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_4/)
 
 [**5. RNA-seq: Upstream Analysis Part II - 22/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_5) \
-[5.1 Review RNA-seq [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf) \
-[5.2 RNA-seq: Upstream Analysis Part II [Duy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf) \
-[5.3 Basic analysis with R [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf)
+[5.1 RNA-seq: Upstream Analysis Part II [Duy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_5/) \
+[5.2 Basic statistical analysis with R [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_5/)
 
 [**6. RNA-seq: Upstream Analysis Part II - 29/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_6) \
-[6.1 Review Upstream Analysis Part I [Duy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf) \
-[6.2 RNA-seq: Upstream Analysis Part II [Duy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf) \
-[6.3 Bioconductor installation [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf)
+[6.1 RNA-seq: Upstream Analysis Part II [Duy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_6/) \
+[6.2 Bioconductor installation [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_6/)
 
 [**7. RNA-seq: Downstream Analysis Part I - 5/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_7) \
-[7.1 Review Upstream Analysis Part II [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf) \
-[7.2 RNA-seq: Downstream Analysis Part I [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf) \
-[7.3 GGplot with R [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf)
+[7.1 RNA-seq: Downstream Analysis Part I [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_7/) \
+[7.2 GGplot with R [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_7/)
 
-[**8. RNA-seq: Downstream Analysis Part II - 12/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_7) \
-[8.1 Review Downstream Analysis Part I [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf) \
-[8.2 RNA-seq: Downstream Analysis Part II [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf) \
-[8.3 Visualize RNA-seq with IGV [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf)
+[**8. RNA-seq: Downstream Analysis Part II - 12/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_8) \
+[8.1 RNA-seq: Downstream Analysis Part II [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_8/) \
+[8.2 Visualize RNA-seq with IGV [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_8/)
 
-[**9. RNA-seq: Downstream Analysis Part III - 17/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_7) \
-[9.1 Review Downstream Analysis Part II [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf) \
-[9.2 RNA-seq: Downstream Analysis Part III [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf) \
-[9.3 Bulk RNA-seq database [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf)
+[**9. Epigenetics: DNA Methylation and Histone Modification - 17/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_9) \
+[9.1 DNA Methylation in gene regulation [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_9/) \
+[9.2 Histone Modification in gene regulation [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_9/)
 
-[**10. Presenting- 17/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_10) \
-
+[**10. Project Presenting - 17/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_10) 
+[10.1 Đào ](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_10/) \
+[10.2 Hương ](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_10/) \
+[10.3 Huy ](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_10/) 
