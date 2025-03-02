@@ -48,7 +48,7 @@
 [9.1 DNA Methylation in gene regulation [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_9/) \
 [9.2 Histone Modification in gene regulation [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_9/)
 
-[**10. Project Presenting - 17/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_10) 
+[**10. Project Presenting - 17/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_10) \
 [10.1 Đào ](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_10/) \
 [10.2 Hương ](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_10/) \
 [10.3 Huy ](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_10/) 
