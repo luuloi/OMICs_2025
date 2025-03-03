@@ -23,7 +23,7 @@
 -[Google Docs](https://docs.google.com/presentation/d/1neestepttZVAYVREIE3s7eNULgngSpVZrkxlIWEaRyI/edit?usp=sharing) \
    Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/DS_basics_basics_R.ipynb)
 
-[**3. Fundamental concepts of RNA sequencing experiments - 08/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_3) \
+[**3. Fundamental concepts of RNA sequencing experiments - 09/03/2025 at 8AM**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_3) \
 [3.1 Fundamental concepts of RNA sequencing experiments [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_3/) \
 [3.2 Basic plot with R [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_3/)
 
