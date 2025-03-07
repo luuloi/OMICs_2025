@@ -17,7 +17,7 @@
 
 [**2. Next Generation Sequencing analysis for DNA-seq Part II - 01/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_2) \
    [2.1 Downstream analysis of NGS: From variant calling To variant annotation and interpretation [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf) \
-   2.2 Introduction to Google Colab [Kim] \
+   [2.2 Introduction to Google Colab [Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/Introduction%20google%20colab.pdf) \
    Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dKwL8cNxW8UODCd8_bmQEU7-jfxRTrnY?usp=sharing) \
    [2.3 Introduction to basic R in Google Colab [Duy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/R1_Basic_R.pdf) 
 -[Google Docs](https://docs.google.com/presentation/d/1neestepttZVAYVREIE3s7eNULgngSpVZrkxlIWEaRyI/edit?usp=sharing) \
