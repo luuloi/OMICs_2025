@@ -30,7 +30,7 @@
 
 [**4. RNA-seq: Upstream Analysis Part I - 15/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_4) \
 [4.1 RNA-seq: Upstream Analysis Part I [Duy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_4/) \
-[4.2 GGplot with R [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_4/)
+[4.2 GGplot with R [Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_4/)
 
 [**5. RNA-seq: Upstream Analysis Part II - 22/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_5) \
 [5.1 RNA-seq: Upstream Analysis Part II [Duy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_5/) \
