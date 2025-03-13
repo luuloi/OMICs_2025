@@ -46,7 +46,7 @@
 
 [**8. RNA-seq: Downstream Analysis Part III - 12/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_8) \
 [8.1 RNA-seq: Downstream Analysis Part II [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_8/) \
-[8.2 Visualize RNA-seq with IGV [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_8/)
+[8.2 Visualize RNA-seq with IGV [Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_8/)
 
 [**9. Epigenetics: DNA Methylation and Histone Modification - 17/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_9) \
 [9.1 DNA Methylation in gene regulation [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_9/) \
