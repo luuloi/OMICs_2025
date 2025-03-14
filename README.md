@@ -26,7 +26,7 @@
 [**3. Fundamental concepts of RNA sequencing experiments - 09/03/2025 at 8AM**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_3) \
 [3.1 Fundamental concepts of RNA sequencing experiments [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_3/) \
 [3.2 Basic plot with R [Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_3/Basic%20plot.pdf) \
- - [Input file to Rstudio](https://docs.google.com/presentation/d/1MjUa6KBA1Pq11wrjFMHbSUgMCSYPc4NbulW6zna6Tho/edit?usp=sharing)
+ - [Input file to Rstudio](https://docs.google.com/presentation/d/1MjUa6KBA1Pq11wrjFMHbSUgMCSYPc4NbulW6zna6Tho/edit?usp=sharing) \
  Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dUGwDzbEJus8f-sbW80iHrlg68I5EQia?usp=sharing)
 
 [**4. RNA-seq: Upstream Analysis Part I - 15/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_4) \
