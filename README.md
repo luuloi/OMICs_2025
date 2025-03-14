@@ -43,7 +43,7 @@
 
 [**7. RNA-seq: Downstream Analysis Part II - 5/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_7) \
 [7.1 RNA-seq: Downstream Analysis Part I [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_7/) \
-[7.2 GGplot with R [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_7/)
+[7.2 Plots: PCA, Volcano and Heatmap [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_7/)
 
 [**8. RNA-seq: Downstream Analysis Part III - 12/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_8) \
 [8.1 RNA-seq: Downstream Analysis Part II [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_8/) \
