@@ -42,15 +42,15 @@
 [6.2 GTEx and Bioconductor installation [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_6/)
 
 [**7. Epigenetics: DNA methylation - 5/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_7) \
-[7.1 RNA-seq: DNA methylation [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_7/) \
-[7.2 Plots: PCA, Volcano and Heatmap [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_7/)
+[7.1 Epigenetics: DNA methylation [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_7/) \
+[7.2 Downstream analysis plots: PCA, Volcano and Heatmap [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_7/)
 
 [**8. Epigenetics: Histone Modifications - 12/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_8) \
-[8.1 RNA-seq: Histone Modifications [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_8/) \
+[8.1 Epigenetics: Histone Modifications [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_8/) \
 [8.2 Visualize RNA-seq with IGV [Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_8/)
 
-[**9. Epigenetics: Chromatin Regulation - 17/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_9) \
-[9.1 Chromatin Regulation [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_9/) \
+[**9. Introduction to single-cell RNA-seq - 17/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_9) \
+[9.1 Introduction to single-cell RNA-seq [Duy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_9/) \
 [9.2 UCSC Genome Browser and Epigenome Roadmap [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_9/)
 
 [**10. Project Presenting - 17/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_10) \
