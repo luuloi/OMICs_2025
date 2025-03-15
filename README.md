@@ -29,29 +29,29 @@
 [Input file to Rstudio](https://docs.google.com/presentation/d/1MjUa6KBA1Pq11wrjFMHbSUgMCSYPc4NbulW6zna6Tho/edit?usp=sharing) \
  Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dUGwDzbEJus8f-sbW80iHrlg68I5EQia?usp=sharing)
 
-[**4. RNA-seq: Upstream Analysis Part I - 15/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_4) \
+[**4. RNA-seq: Upstream Analysis - 15/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_4) \
 [4.1 RNA-seq: Upstream Analysis Part I [Duy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_4/) \
 [4.2 GGplot with R [Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_4/)
 
-[**5. RNA-seq: Upstream Analysis Part II - 22/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_5) \
-[5.1 RNA-seq: Upstream Analysis Part II [Duy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_5/) \
+[**5. RNA-seq: Downstream Analysis Part I - 22/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_5) \
+[5.1 RNA-seq: Downstream Analysis Part II [Duy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_5/) \
 [5.2 Basic statistical analysis with R [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_5/)
 
-[**6. RNA-seq: Downstream Analysis Part I - 29/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_6) \
-[6.1 RNA-seq: Downstream Analysis Part I [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_6/) \
-[6.2 Bioconductor installation [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_6/)
+[**6. RNA-seq: Downstream Analysis Part II - 29/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_6) \
+[6.1 RNA-seq: Downstream Analysis Part II [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_6/) \
+[6.2 GTEx and Bioconductor installation [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_6/)
 
-[**7. RNA-seq: Downstream Analysis Part II - 5/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_7) \
-[7.1 RNA-seq: Downstream Analysis Part I [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_7/) \
+[**7. Epigenetics: DNA methylation - 5/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_7) \
+[7.1 RNA-seq: DNA methylation [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_7/) \
 [7.2 Plots: PCA, Volcano and Heatmap [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_7/)
 
-[**8. RNA-seq: Downstream Analysis Part III - 12/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_8) \
-[8.1 RNA-seq: Downstream Analysis Part II [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_8/) \
+[**8. Epigenetics: Histone Modifications - 12/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_8) \
+[8.1 RNA-seq: Histone Modifications [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_8/) \
 [8.2 Visualize RNA-seq with IGV [Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_8/)
 
-[**9. Epigenetics: DNA Methylation and Histone Modification - 17/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_9) \
-[9.1 DNA Methylation in gene regulation [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_9/) \
-[9.2 Histone Modification in gene regulation [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_9/)
+[**9. Epigenetics: Chromatin Regulation - 17/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_9) \
+[9.1 Chromatin Regulation [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_9/) \
+[9.2 UCSC Genome Browser and Epigenome Roadmap [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_9/)
 
 [**10. Project Presenting - 17/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_10) \
 [10.1 Đào ](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_10/) \
