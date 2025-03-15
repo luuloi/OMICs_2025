@@ -43,11 +43,11 @@ Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 
 [**6. RNA-seq: Downstream Analysis Part II - 29/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_6) \
 [6.1 RNA-seq: Downstream Analysis Part II [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_6/) \
-[6.2 Gene expression database GTEx and Bioconductor installation [Hung]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_6/)
+[6.2 Gene expression database GTEx and Bioconductor installation [Loi, Hung]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_6/)
 
 [**7. Epigenetics: DNA methylation - 5/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_7) \
 [7.1 Epigenetics: DNA methylation [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_7/) \
-[7.2 Downstream analysis plots: PCA, Volcano and Heatmap [Hung](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_7/)
+[7.2 Downstream analysis plots: PCA, Volcano and Heatmap [Hung]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_7/)
 
 [**8. Epigenetics: Histone Modifications - 12/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_8) \
 [8.1 Epigenetics: Histone Modifications [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_8/) \
