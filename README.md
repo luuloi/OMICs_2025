@@ -31,7 +31,7 @@
 
 [**4. RNA-seq: Upstream Analysis - 15/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_4) \
 [4.1 RNA-seq: Upstream Analysis Part I [Duy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_4/) \
-Practice: [![Open In Colab](https://colab.research.google.com/drive/1HhlDZbwF9hQwqzJNqNrOAKjTwylG6iAv?usp=sharing) \
+Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HhlDZbwF9hQwqzJNqNrOAKjTwylG6iAv?usp=sharing) \
 [Data](https://drive.google.com/drive/folders/18MYkREbWRh5JZLFii8jJQ7_4RfT8qa0z?usp=drive_link) \
 [4.2 GGplot with R [Kim]](https://docs.google.com/presentation/d/1kAUVij_mdEFJKipiX8hFTtHdGNrOBI0t9_UtsLyAR8k/edit?usp=sharing) \
 [Data](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_4) \
