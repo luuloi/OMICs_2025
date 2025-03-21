@@ -42,7 +42,11 @@ Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 [5.2 Basic statistical analysis with R [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_5/)
 
 [**6. RNA-seq: Downstream Analysis Part II - 29/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_6) \
-[6.1 RNA-seq: Downstream Analysis Part II [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_6/) \
+[6.1 RNA-seq: Downstream Analysis Part II [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_6/)
+
+- Lecture: [Slide](https://docs.google.com/presentation/d/e/2PACX-1vRDqC-2cMEP0b2lSV9Uu17vtXfnpmQdyZdLuPsAqtW5h0IYrCO6ef_hlJK1Nxnf8A/pub?start=true&loop=false&delayms=60000)
+- Lab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VC2aBIAy1pXJc0zyVxCTYRX80SGZ_dR8?usp=sharing)
+
 [6.2 Gene expression database GTEx and Bioconductor installation [Loi, Hung]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_6/)
 
 [**7. Epigenetics: DNA methylation - 5/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_7) \
