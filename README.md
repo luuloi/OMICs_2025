@@ -40,8 +40,9 @@ Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 [**5. RNA-seq: Downstream Analysis Part I - 22/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_5) \
 [5.1 RNA-seq: Downstream Analysis Part I [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_6/)
 - Lecture: [Slide](https://docs.google.com/presentation/d/e/2PACX-1vRDqC-2cMEP0b2lSV9Uu17vtXfnpmQdyZdLuPsAqtW5h0IYrCO6ef_hlJK1Nxnf8A/pub?start=true&loop=false&delayms=60000)
-- Lab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VC2aBIAy1pXJc0zyVxCTYRX80SGZ_dR8?usp=sharing)
-
+- Lab (Minh): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VC2aBIAy1pXJc0zyVxCTYRX80SGZ_dR8?usp=sharing)
+- Lab (Duy 1): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)] (https://colab.research.google.com/drive/1JcPoLnZtEZoJH9z6M1_ViP23tN9vOUVf?usp=sharing)
+- Lab (Duy 2): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)] (https://colab.research.google.com/drive/1uvY0IK2Dl75L61A0KEkXAIad3DDaEOMp?usp=sharing)
 [5.2 Basic statistical analysis with R [Huy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_5/)
 - [PPTX](https://docs.google.com/presentation/d/1hMirLH5t6i9YgiC1r8AgWQAk1X2k6RlRBF4feB1yBZY/edit?usp=sharing)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EB90siBp9USSdRPQILVuVgAXkW3SvyjI?usp=sharing
