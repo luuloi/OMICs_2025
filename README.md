@@ -50,20 +50,20 @@ Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 )
 - Practice2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fwkRCAPH2v2M95oJ1yIjtRC4JGjWd5kH?usp=sharing)
 
-[**6.1 Gene expression database GTEx and Bioconductor installation - 29/03/2025 [Loi, Hung]**](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_6/) \
-[6.2 Downstream analysis plots: PCA, Volcano and Heatmap [Hung]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_6/)
+[**6.1 Mining Gene expression database GTEx - 29/03/2025 [Loi]**](https://gtexportal.org/home/videos) \
+[6.2 Brief introduction to Bioconductor installation [Hung]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_6/) \
+[6.3 Downstream analysis plots: PCA, Volcano and Heatmap [Hung]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_6/)
 
-[**7. Epigenetics: DNA methylation - 5/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_7) \
-[7.1 Epigenetics: DNA methylation [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_7/) 
+[**7. Epigenetics: Chromatin and Histone Modifications - 5/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_7) \
+[7.1 Epigenetics: Chromatin and Histone Modifications [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_7/) \
+[7.2 Visualize RNA-seq with IGV [Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_8/)
 
+[**8. Epigenetics: DNA-methylation and epigenetic control - 12/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_8) \
+[8.1 Epigenetics: DNA methylation [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_8/) 
+[8.2 UCSC Genome Browser and Epigenome Roadmap [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_8/)
 
-[**8. Epigenetics: Histone Modifications - 12/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_8) \
-[8.1 Epigenetics: Histone Modifications [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_8/) \
-[8.2 Visualize RNA-seq with IGV [Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_8/)
-
-[**9. Introduction to single-cell RNA-seq - 17/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_9) \
-[9.1 Introduction to single-cell RNA-seq [Duy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_9/) \
-[9.2 UCSC Genome Browser and Epigenome Roadmap [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_9/)
+[**9. Introduction to single-cell RNA-seq Analysis - 17/04/2025 [Duy]**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_9) \
+[**Course review**]
 
 [**10. Project Presenting - 17/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_10) \
 [10.1 Đào ](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_10/) \
