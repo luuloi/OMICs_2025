@@ -39,7 +39,7 @@ Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 
 [**5. RNA-seq: Downstream Analysis Part I - 22/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_5) \
 [5.1 RNA-seq: Downstream Analysis Part I [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_5/) \
-[5.2 Basic statistical analysis with R [Hung/Thanh/Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_5/)
+[5.2 Basic statistical analysis with R [Huy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_5/)
 
 [**6. RNA-seq: Downstream Analysis Part II - 29/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_6) \
 [6.1 RNA-seq: Downstream Analysis Part II [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_6/)
