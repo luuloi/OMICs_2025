@@ -59,11 +59,11 @@ Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 [7.2 Visualize RNA-seq with IGV [Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_8/)
 
 [**8. Epigenetics: DNA-methylation and epigenetic control - 12/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_8) \
-[8.1 Epigenetics: DNA methylation [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_8/) 
+[8.1 Epigenetics: DNA methylation [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_8/) \
 [8.2 UCSC Genome Browser and Epigenome Roadmap [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_8/)
 
 [**9. Introduction to single-cell RNA-seq Analysis - 17/04/2025 [Duy]**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_9) \
-[**Course review**]
+[**Course review - [Loi]**]
 
 [**10. Project Presenting - 17/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_10) \
 [10.1 Đào ](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_10/) \
