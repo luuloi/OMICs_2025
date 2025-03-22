@@ -43,6 +43,9 @@ Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 - Lab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VC2aBIAy1pXJc0zyVxCTYRX80SGZ_dR8?usp=sharing)
 
 [5.2 Basic statistical analysis with R [Huy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_5/)
+- [PPTX](https://docs.google.com/presentation/d/1hMirLH5t6i9YgiC1r8AgWQAk1X2k6RlRBF4feB1yBZY/edit?usp=sharing)
+- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EB90siBp9USSdRPQILVuVgAXkW3SvyjI?usp=sharing
+)
 
 [**6. Gene expression database GTEx and Bioconductor installation - 29/03/2025 [Loi, Hung]**](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_6/)
 
