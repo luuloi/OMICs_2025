@@ -37,7 +37,7 @@ Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 [Data](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_4) \
 Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/149tZnDCQfzNX3yRbAazoQlf_etkzOZfO?usp=sharing)
 
-[**5. RNA-seq: Downstream Analysis Part I - 22/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_5) \
+[**5. RNA-seq: Downstream Analysis - 22/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_5) \
 [5.1 RNA-seq: Downstream Analysis Part I [Minh]](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_5)
 - Lecture: [Slide](https://docs.google.com/presentation/d/e/2PACX-1vRDqC-2cMEP0b2lSV9Uu17vtXfnpmQdyZdLuPsAqtW5h0IYrCO6ef_hlJK1Nxnf8A/pub?start=true&loop=false&delayms=60000)
 - Lab (Minh): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VC2aBIAy1pXJc0zyVxCTYRX80SGZ_dR8?usp=sharing)
