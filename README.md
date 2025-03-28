@@ -15,17 +15,17 @@
    - [2. "Immunohistochemical Profiling of Histone Modification Biomarkers Identifies Subtype-Specific Epigenetic Signatures and Potential Drug Targets in Breast Cancer"](https://pubmed.ncbi.nlm.nih.gov/39859484/)
    - [3. "HKDC1 functions as a glucose sensor and promotes metabolic adaptation and cancer growth via interaction with PHB2" [Huy]](https://pubmed.ncbi.nlm.nih.gov/39375512/)
 
-[**2. Next Generation Sequencing analysis for DNA-seq Part II - 01/03/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_2) \
-   [2.1 Downstream analysis of NGS: From variant calling To variant annotation and interpretation [Minh]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/DNAseq_variant_discovery_2025.pdf) \
-   [2.2 Introduction to Google Colab [Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/Introduction%20google%20colab.pdf) \
+[**2. Next Generation Sequencing analysis for DNA-seq Part II - 01/03/2025**](Lecture_2) \
+   [2.1 Downstream analysis of NGS: From variant calling To variant annotation and interpretation [Minh]](Lecture_2/DNAseq_variant_discovery_2025.pdf) \
+   [2.2 Introduction to Google Colab [Kim]](Lecture_2/Introduction%20google%20colab.pdf) \
    Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dKwL8cNxW8UODCd8_bmQEU7-jfxRTrnY?usp=sharing) \
    [2.3 Introduction to basic R in Google Colab [Duy]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_2/R1_Basic_R.pdf) 
 -[Google Docs](https://docs.google.com/presentation/d/1neestepttZVAYVREIE3s7eNULgngSpVZrkxlIWEaRyI/edit?usp=sharing) \
    Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/DS_basics_basics_R.ipynb)
 
-[**3. Fundamental concepts of RNA sequencing experiments - 09/03/2025 at 8AM**](https://github.com/luuloi/OMICs_2025/tree/main/Lecture_3) \
-[3.1 Fundamental concepts of RNA sequencing experiments [Loi]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_3/) \
-[3.2 Basic plot with R [Kim]](https://github.com/luuloi/OMICs_2025/blob/main/Lecture_3/Basic%20plot.pdf) \
+[**3. Fundamental concepts of RNA sequencing experiments - 09/03/2025 at 8AM**](Lecture_3) \
+[3.1 Fundamental concepts of RNA sequencing experiments [Loi]](Lecture_3/Lecture_03_Fundamental_concepts_of_RNA_sequencing_experiments.pdf) \
+[3.2 Basic plot with R [Kim]](Lecture_3/Basic%20plot.pdf) \
 [Input file to Rstudio](https://docs.google.com/presentation/d/1MjUa6KBA1Pq11wrjFMHbSUgMCSYPc4NbulW6zna6Tho/edit?usp=sharing) \
  Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dUGwDzbEJus8f-sbW80iHrlg68I5EQia?usp=sharing)
 
