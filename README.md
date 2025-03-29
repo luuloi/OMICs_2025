@@ -55,6 +55,7 @@ Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 [6.2 Mining Gene expression database GTEx [Loi]](https://gtexportal.org/home/videos)[ and TCGA [Loi]](https://portal.gdc.cancer.gov/analysis_page?app=GeneExpression) \
 [6.3 Brief introduction to Bioconductor and installation [Hung]](Lecture_6/) \
 [6.4 Downstream analysis plots: PCA, Volcano and Heatmap [Hung]](Lecture_6/)
+- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iypGTWcGttfrDONpVMY-V2S6NI6sZu7J?usp=sharing)
 
 [**7. Epigenetics: Chromatin and Histone Modifications - 5/04/2025**](Lecture_7/) \
 [7.1 Epigenetics: Chromatin and Histone Modifications [Loi]](Lecture_7/) \
