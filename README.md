@@ -50,9 +50,9 @@ Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 )
 - Practice2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fwkRCAPH2v2M95oJ1yIjtRC4JGjWd5kH?usp=sharing)
 
-[**6 Best practice for Bulk RNA-seq - 29/03/2025 [Loi]**] \
-[6.1 Review and comparing bulk RNA-seq vs DNA-seq](Lecture_6/) \
-[6.2 Mining Gene expression database GTEx](https://gtexportal.org/home/videos)[and TCGA](https://portal.gdc.cancer.gov/analysis_page?app=GeneExpression)
+[**6 Best practice for Bulk RNA-seq - 29/03/2025**] \
+[6.1 Review and comparing bulk RNA-seq vs DNA-seq[Loi]](Lecture_6/) \
+[6.2 Mining Gene expression database GTEx [Loi]](https://gtexportal.org/home/videos)[and TCGA](https://portal.gdc.cancer.gov/analysis_page?app=GeneExpression) \
 [6.3 Brief introduction to Bioconductor and installation [Hung]](Lecture_6/) \
 [6.4 Downstream analysis plots: PCA, Volcano and Heatmap [Hung]](Lecture_6/)
 
