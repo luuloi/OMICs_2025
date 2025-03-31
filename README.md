@@ -50,18 +50,18 @@ Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 )
 - Practice2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fwkRCAPH2v2M95oJ1yIjtRC4JGjWd5kH?usp=sharing)
 
-[**6. Best practice for Bulk RNA-seq - 29/03/2025**](Lecture_6/) \
-[6.1 Review and comparing bulk RNA-seq vs DNA-seq [Loi]](Lecture_6/Best_Practice_for_Bulk_RNA-seq_analysis_2025March29.pdf) \
-[6.2 Mining Gene expression database GTEx [Loi]](https://gtexportal.org/home/videos)[ and TCGA [Loi]](https://portal.gdc.cancer.gov/analysis_page?app=GeneExpression) \
-[6.3 Brief introduction to Bioconductor and installation [Hung]](Lecture_6/) \
-[6.4 Downstream analysis plots: PCA, Volcano and Heatmap [Hung]](Lecture_6/)
+[**6. Best Practice for Bulk RNA-seq - 29/03/2025**](Lecture_6/) \
+[6.1 Review and Comparing bulk RNA-seq vs DNA-seq [Loi]](Lecture_6/Best_Practice_for_Bulk_RNA-seq_analysis_2025March29.pdf) \
+[6.2 Mining Gene Expression Database: GTEx [Loi]](https://gtexportal.org/home/videos)[ and TCGA [Loi]](https://portal.gdc.cancer.gov/analysis_page?app=GeneExpression) \
+[6.3 Brief Introduction and Installation Bioconductor [Hung]](Lecture_6/) \
+[6.4 Downstream Analysis Plots for Bulk RNA-seq: PCA, Volcano and Heatmap [Hung]](Lecture_6/)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iypGTWcGttfrDONpVMY-V2S6NI6sZu7J?usp=sharing)
 
 [**7. Epigenetics: Chromatin and Histone Modifications - 5/04/2025**](Lecture_7/) \
 [7.1 Epigenetics: Chromatin and Histone Modifications [Loi]](Lecture_7/) \
 [7.2 Visualize RNA-seq with IGV [Kim]](Lecture_7/)
 
-[**8. Epigenetics: DNA-methylation and epigenetic control - 12/04/2025**](Lecture_8/) \
+[**8. Epigenetics: DNA-methylation and Epigenetic Control - 12/04/2025**](Lecture_8/) \
 [8.1 Epigenetics: DNA methylation and epigenetic control [Loi]](Lecture_8/) \
 [8.2 UCSC Genome Browser and Epigenome Roadmap [Loi]](Lecture_8/)
 
