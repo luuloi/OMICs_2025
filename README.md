@@ -58,7 +58,7 @@ Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iypGTWcGttfrDONpVMY-V2S6NI6sZu7J?usp=sharing)
 
 [**7. Epigenetics: Chromatin and Histone Modifications - 5/04/2025**](Lecture_7/) \
-[7.1 Epigenetics: Chromatin and Histone Modifications [Loi]](Lecture_7/) 
+[7.1 Epigenetics: Chromatin and Histone Modifications [Loi]](Lecture_7/Lecture_02_Chromatin_I_2025March15.pdf) 
 - [Exercise 1. Explain Figure 1 in the paper](https://www.nature.com/articles/s41467-019-13753-7.pdf)
 - [Exercise 2. Explain Figure 7A in the paper](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01171-2)
 - [Exercise 3. Explain Figure 5E in the paper](https://www.sciencedirect.com/science/article/pii/S1535610819300388)
