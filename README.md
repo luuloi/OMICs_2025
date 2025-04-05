@@ -60,6 +60,7 @@ Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 [**7. Epigenetics: Chromatin and Histone Modifications - 5/04/2025**](Lecture_7/) \
 [7.1 Epigenetics: Chromatin and Histone Modifications [Loi]](Lecture_7/) \
 [7.2 Visualize RNA-seq with IGV [Kim]](Lecture_7/)
+- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19vko0YJpPPD7yKTxHwKGvuw6tlHBVwgd?usp=sharing)
 
 [**8. Epigenetics: DNA-methylation and Epigenetic Control - 12/04/2025**](Lecture_8/) \
 [8.1 Epigenetics: DNA methylation and epigenetic control [Loi]](Lecture_8/) \
