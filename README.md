@@ -3,7 +3,7 @@
 #### C43B, 227 Nguyen Van Cu st, Dist. 5, HCM city 
 
 [**0. Introduction to the course "OMICs 2025" - 15/02/2025**](Lecture_0/) \
- [0.1 DNA-seq and Genomic Testing [Loi]]Lecture_0/Introduction_to_DNA-seq.pdf) \
+ [0.1 DNA-seq and Genomic Testing [Loi]](Lecture_0/Introduction_to_DNA-seq.pdf) \
  [0.2 Overview of OMICs [Loi]](Lecture_0/PH%C3%82N%20T%C3%8DCH%20D%E1%BB%AE%20LI%E1%BB%86U%20TIN%20SINH%20H%E1%BB%8CC%20%E2%80%9C-OMICS%E2%80%9D.docx)
  - [Google Docs](https://docs.google.com/document/d/1jTEfX4PIHhweUEKu854v2VQS2WdoYqKcqHCzaNGuaL0/edit?tab=t.0)
 
