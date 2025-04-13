@@ -70,6 +70,12 @@ Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 
 [**8. Epigenetics: DNA-methylation and Epigenetic Control - 12/04/2025**](Lecture_8/) \
 [8.1 Epigenetics: DNA methylation and epigenetic control [Loi]](Lecture_8/) \
+- [Exercise 1. Explain Figure 5 in the paper](https://link.springer.com/article/10.1186/s13059-022-02728-5/figures/5)
+- [Exercise 2. Explain Figure 3 in the paper](https://pubmed.ncbi.nlm.nih.gov/37824674/#&gid=article-figures&pid=figure-3-uid-2)
+- [Exercise 3. Explain Figure 4 in the paper](https://pubmed.ncbi.nlm.nih.gov/37824674/#&gid=article-figures&pid=figure-4-uid-3)
+- [Exercise 4. Explain Figure 5 in the paper](https://pubmed.ncbi.nlm.nih.gov/37824674/#&gid=article-figures&pid=figure-5-uid-4)
+- [Exercise 5. Explain Figure 2 & 3 in the paper](https://pubmed.ncbi.nlm.nih.gov/22902559/#&gid=article-figures&pid=figure-2-uid-2)
+  
 [8.2 UCSC Genome Browser and Epigenome Roadmap [Loi]](Lecture_8/)
 
 [**9. Introduction to single-cell RNA-seq Analysis - 19/04/2025 [Duy]**](Lecture_9) \
