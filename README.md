@@ -68,8 +68,8 @@ Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 [7.2 Visualize RNA-seq with IGV [Kim]](Lecture_7/)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19vko0YJpPPD7yKTxHwKGvuw6tlHBVwgd?usp=sharing)
 
-[**8. Epigenetics: DNA-methylation and Epigenetic Control - 12/04/2025**](Lecture_8/) \
-[8.1 Epigenetics: DNA methylation and epigenetic control [Loi]](Lecture_8/) 
+[**8. Epigenetics: DNA-methylation and Epigenetic Control - 12/04/2025**](Lecture_8/Methyl_Based_BCA_Screening_Tissue_ccfDNA_2025April12.pdf) \
+[8.1 Epigenetics: DNA methylation and epigenetic control [Loi]](Lecture_8/Methyl_Based_BCA_Screening_Tissue_ccfDNA_2025April12.pdf)
 - [Exercise 1. Explain Figure 5 in the paper](https://link.springer.com/article/10.1186/s13059-022-02728-5/figures/5)
 - [Exercise 2. Explain Figure 3 in the paper](https://pubmed.ncbi.nlm.nih.gov/37824674/#&gid=article-figures&pid=figure-3-uid-2)
 - [Exercise 3. Explain Figure 4 in the paper](https://pubmed.ncbi.nlm.nih.gov/37824674/#&gid=article-figures&pid=figure-4-uid-3)
