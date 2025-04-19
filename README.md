@@ -81,7 +81,7 @@ Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 - [Epigenomics Roadmap and WashU Epigenome Browser: Epigenomes of primary cells and tissues](https://egg2.wustl.edu/roadmap/web_portal/)
 
 [**9. Introduction to single-cell RNA-seq Analysis - 19/04/2025 [Duy]**](Lecture_9) \
-[**Course review - [Loi]**](Lecture_9)
+[**Course review - [Loi]**](Lecture_9/Review_OMICs_2025.pdf)
 
 [**10. Project Presenting - 26/04/2025**](Lecture_10) \
 [10.1 Đào ](Lecture_10/) \
