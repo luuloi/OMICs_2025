@@ -84,6 +84,6 @@ Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 [**Course review - [Loi]**](Lecture_9/Review_OMICs_2025.pdf)
 
 [**10. Project Presenting - 26/04/2025**](Lecture_10) \
-[10.1 Đào ](Lecture_10/) \
-[10.2 Hương ](Lecture_10/) \
-[10.3 Huy ](Lecture_10/) 
+[10.1 Đào ](https://github.com/luuloi/OMICs_2025/blob/main/Project%20Presenting/Project%20presentation_OMICS_PTHDao.pptx) \
+[10.2 Hương ](https://github.com/luuloi/OMICs_2025/blob/main/Project%20Presenting/Nguy%E1%BB%85n%20V%C3%A2n%20H%C6%B0%C6%A1ng%20-%20Breast%20Cancer.pptx) \
+[10.3 Huy ](https://github.com/luuloi/OMICs_2025/blob/main/Project%20Presenting/Nguyen%20Huu%20Huy_HKDC1.ppt) 
