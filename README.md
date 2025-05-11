@@ -83,7 +83,10 @@ Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 [**9. Introduction to single-cell RNA-seq Analysis - 19/04/2025 [Duy]**](Lecture_9) \
 [**Course review - [Loi]**](Lecture_9/Review_OMICs_2025.pdf)
 
-[**10. Project Presenting - 26/04/2025**](Lecture_10) \
-[10.1 Đào ](https://github.com/luuloi/OMICs_2025/blob/main/Project%20Presenting/Project%20presentation_OMICS_PTHDao.pptx) \
-[10.2 Hương ](https://github.com/luuloi/OMICs_2025/blob/main/Project%20Presenting/Nguy%E1%BB%85n%20V%C3%A2n%20H%C6%B0%C6%A1ng%20-%20Breast%20Cancer.pptx) \
-[10.3 Huy ](https://github.com/luuloi/OMICs_2025/blob/main/Project%20Presenting/Nguyen%20Huu%20Huy_HKDC1.ppt) 
+[**10. Project Presenting - 26/04/2025**](https://github.com/luuloi/OMICs_2025/tree/main/Project%20Presenting) \
+**10.1 Đào** \
+[PPTX](https://github.com/luuloi/OMICs_2025/blob/main/Project%20Presenting/Project%20presentation_OMICS_PTHDao.pptx)) &emsp; [Code](https://github.com/luuloi/OMICs_2025/blob/main/Project%20Presenting/Project%20presentation_OMICS_PTHDao.R)
+**10.2 Hương** \
+[PPTX](https://github.com/luuloi/OMICs_2025/blob/main/Project%20Presenting/Nguy%E1%BB%85n%20V%C3%A2n%20H%C6%B0%C6%A1ng%20-%20Breast%20Cancer.pptx) &emsp; [Code](https://github.com/luuloi/OMICs_2025/blob/main/Project%20Presenting/Nguy%E1%BB%85n%20V%C3%A2n%20H%C6%B0%C6%A1ng%20-%20Breast%20Cancer_code.R)
+**10.3 Huy**
+[PPTX](https://github.com/luuloi/OMICs_2025/blob/main/Project%20Presenting/Nguyen%20Huu%20Huy_HKDC1.ppt)
